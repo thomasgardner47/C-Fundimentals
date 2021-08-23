@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC03\\Documents\\VS projects\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\C-basics-NonPrimitives.csproj",
+      "projectUniqueName": "C:\\Users\\PC03\\Documents\\Github_Personal_Projects\\C-Fundimentals\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\C-basics-NonPrimitives.csproj",
       "projectName": "C-basics-NonPrimitives",
-      "projectPath": "C:\\Users\\PC03\\Documents\\VS projects\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\C-basics-NonPrimitives.csproj",
+      "projectPath": "C:\\Users\\PC03\\Documents\\Github_Personal_Projects\\C-Fundimentals\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\C-basics-NonPrimitives.csproj",
       "packagesPath": "C:\\Users\\PC03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC03\\Documents\\VS projects\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\obj\\",
+      "outputPath": "C:\\Users\\PC03\\Documents\\Github_Personal_Projects\\C-Fundimentals\\C-basics-NonPrimitives\\C-basics-NonPrimitives\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

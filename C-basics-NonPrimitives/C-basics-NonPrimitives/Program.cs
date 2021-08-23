@@ -1,12 +1,34 @@
 ﻿using System;
 using C_basics_NonPrimitives;
 
+
 namespace C_basics_NonPrimitives
 {
+    /* working with enums */
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
+
+
     class Program
     {
         static void Main(string[] args)
         {
+            var method = ShippingMethod.Express;
+            Console.WriteLine((int) method);
+
+            var methodId = 3;
+            Console.WriteLine((ShippingMethod) methodId);
+
+            Console.WriteLine(method.ToString());
+
+
+
+
+
             //Person Thomas = new Person();
 
             //Thomas.FirstName = "Thomas";
@@ -78,7 +100,6 @@ c:\\folder3\\folder4 ";
             Console.WriteLine(text);
 
 
-            /* working with enums */
         }
     }
 }

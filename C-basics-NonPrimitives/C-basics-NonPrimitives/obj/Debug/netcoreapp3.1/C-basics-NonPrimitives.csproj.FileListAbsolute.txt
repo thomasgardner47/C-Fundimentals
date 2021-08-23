@@ -11,3 +11,16 @@ C:\Users\PC03\Documents\VS projects\C-basics-NonPrimitives\C-basics-NonPrimitive
 C:\Users\PC03\Documents\VS projects\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.dll
 C:\Users\PC03\Documents\VS projects\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.pdb
 C:\Users\PC03\Documents\VS projects\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.genruntimeconfig.cache
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.exe
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.deps.json
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.runtimeconfig.json
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.runtimeconfig.dev.json
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.dll
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\bin\Debug\netcoreapp3.1\C-basics-NonPrimitives.pdb
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.csprojAssemblyReference.cache
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.AssemblyInfoInputs.cache
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.AssemblyInfo.cs
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.csproj.CoreCompileInputs.cache
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.dll
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.pdb
+C:\Users\PC03\Documents\Github_Personal_Projects\C-Fundimentals\C-basics-NonPrimitives\C-basics-NonPrimitives\obj\Debug\netcoreapp3.1\C-basics-NonPrimitives.genruntimeconfig.cache
