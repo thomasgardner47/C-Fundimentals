@@ -25,8 +25,8 @@ namespace C_basics_NonPrimitives
 
             Console.WriteLine(method.ToString());
 
-
-
+            var methodName = "Express";
+            var shippingmethod = (ShippingMethod) Enum.Parse(typeof(ShippingMethod), methodName);
 
 
             //Person Thomas = new Person();
